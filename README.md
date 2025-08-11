@@ -1,7 +1,6 @@
 # 🧠 Decision Trees & Random Forests — Classification Project
 
-## 📌 Overview
-This project is part of **Task 5** from the AI & ML Internship program.  
+## 📌 Overview  
 The objective is to implement **Decision Tree** and **Random Forest** models for a classification problem (Heart Disease dataset), analyze their performance, tune hyperparameters, and interpret results.  
 
 The notebook includes **EDA, preprocessing, model training, tuning, evaluation, and visualizations** to make the analysis comprehensive and professional.
